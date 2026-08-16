@@ -111,6 +111,7 @@ Test verisi üzerinde elde edilen confusion matrix:
 ```text
 [[11  3]
  [ 1 30]]
+'''
 Modelin Açıklanabilirliği
 
 Logistic Regression modelinin katsayıları incelenerek model kararında etkili olan öznitelikler değerlendirilmiştir.
